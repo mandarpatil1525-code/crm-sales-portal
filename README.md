@@ -19,7 +19,4 @@ A full-stack CRM application for managing **leads, sales opportunities, customer
 * **Database:** MySQL
 * **Tools:** Git, GitHub, Postman
 
-## Purpose
-
-Developed as part of the **Cruvels Engineering Internship Technical Assignment – Option C**.
 
